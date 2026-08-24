@@ -130,7 +130,7 @@ hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
 [[files]]
 file = "config/classicperipherals.toml"
-hash = "1ee98be1ffe155ae63d5acaf8eff0cea6a615e0f64f75f819f19ccd978aa2a25"
+hash = "ba5e23ec312d8135158f4d1d497aef60ffe656068c9664c2c139a76e5c13ae10"
 
 [[files]]
 file = "config/colorwheel-client.toml"
@@ -434,7 +434,7 @@ hash = "3c9aa129c17d271fddde38316e05ee7350ca1ceea4d5c9bb2354d3ea99b20ac0"
 
 [[files]]
 file = "config/globalgamerules-common.toml"
-hash = "5e3c8903ba07a68d09c2c4a59409bc49d74e178a19107dc9db3f734631ac7742"
+hash = "798d2fc51bd9b6bdb31ce1b016f72c145996af13629886dad3f79a561fc97093"
 
 [[files]]
 file = "config/hardermonsterboats-common.toml"
@@ -942,11 +942,6 @@ metafile = true
 [[files]]
 file = "mods/biome-music.pw.toml"
 hash = "ce67892bdb1211993f6d7089317305a91ad049b8ce582e6525c67a422898f8a6"
-metafile = true
-
-[[files]]
-file = "mods/brick-pyramid-infdev.pw.toml"
-hash = "fc2e57c6898b5646923a2fb75283b04faf4eb1eb9034aa2314d2545f55b977ae"
 metafile = true
 
 [[files]]
