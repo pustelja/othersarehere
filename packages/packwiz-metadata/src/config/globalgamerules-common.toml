@@ -145,7 +145,7 @@
 	save_gamerules = false
 	#A comma separated list of commands to run on world join, @p is replaced with joining player name, command is run by the server
 	#Example: default_commands = ["/tellraw @p [\"\",{\"text\":\"Hi \"},{\"text\":\"@p\",\"color\":\"aqua\"}]"]
-	default_commands = ["/setworldspawn 29999950 101 0", "/forceload add 29999950 0", "/setblock 29999950 100 0 repeating_command_block[conditional=false]{auto:1b,Command:\"/execute positioned 29999950 100 0 as @a[distance=..100] if entity @s run spreadplayers 0 0 0 4096 false @s\"} replace", "/setblock 29999950 99 0 repeating_command_block[conditional=false]{auto:1b,Command:\"/execute as @a[nbt={Dimension:\\\"minecraft:the_end\\\"}] if entity @s in minecraft:overworld run tp @s 29999950 100 0\"} replace"]
+	default_commands = ["/setworldspawn 29999950 101 0", "/forceload add 29999950 0", "/setblock 29999950 100 0 repeating_command_block[conditional=false]{auto:1b,Command:\"/execute positioned 29999950 100 0 as @a[distance=..100] if entity @s run spreadplayers 0 0 0 32 false @s\"} replace", "/setblock 29999950 99 0 repeating_command_block[conditional=false]{auto:1b,Command:\"/execute as @a[nbt={Dimension:\\\"minecraft:the_end\\\"}] if entity @s in minecraft:overworld run tp @s 29999950 100 0\"} replace"]
 	#If gamerules and settings only should be used as the defaults when creating a world
 	#This will also block saving of changes to the config
 	use_as_defaults_only = false

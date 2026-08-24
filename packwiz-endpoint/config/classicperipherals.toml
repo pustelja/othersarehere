@@ -20,7 +20,7 @@ radioTowerLossFactor = 0.15
 radioTowerMaxMessageSize = 8388608
 # Whether the Mini Antenna can broadcast instead of just receiving.
 # default: true
-antennaCanBroadcast = true
+antennaCanBroadcast = false
 # The maximum size in bytes of the NFC card and RFID badge data.
 # range: 1 - 2147483647
 # default: 128

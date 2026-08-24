@@ -1236,6 +1236,11 @@ hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a577727b4b1fa0dd483e75c451d89840cb7231a4565d55b873e89eebd35708d2"
+metafile = true
+
+[[files]]
 file = "mods/sleepnt-disable-sleep-keep-spawnpoints.pw.toml"
 hash = "72f50fde02af1df2d99f78737772813147f07afa773c0fc11fbb19e64d7a8d18"
 metafile = true
