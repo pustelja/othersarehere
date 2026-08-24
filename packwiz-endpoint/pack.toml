@@ -1,0 +1,13 @@
+name = "othersmaybehere"
+author = "<o>"
+version = "1.4.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "087e49db4763fdff8e868b03860eb39d8baad8a7aedf4ccebbe2c7cc60e98b6b"
+
+[versions]
+forge = "47.3.22"
+minecraft = "1.20.1"
