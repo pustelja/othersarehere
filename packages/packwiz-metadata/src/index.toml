@@ -945,6 +945,11 @@ hash = "ce67892bdb1211993f6d7089317305a91ad049b8ce582e6525c67a422898f8a6"
 metafile = true
 
 [[files]]
+file = "mods/brick-pyramid-infdev-upport.pw.toml"
+hash = "0bc234e9c6b662f9d216cc906f9d4fe13e1c1892d41fffcfceccfe0ec5362984"
+metafile = true
+
+[[files]]
 file = "mods/brick-pyramid-infdev.pw.toml"
 hash = "fc2e57c6898b5646923a2fb75283b04faf4eb1eb9034aa2314d2545f55b977ae"
 metafile = true

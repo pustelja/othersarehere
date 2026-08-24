@@ -1,0 +1,13 @@
+name = "Brick Pyramid Infdev - UpPort"
+filename = "brick_pyramids_infdev_-1.0.0Alpha-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tXr59A05/versions/OTzSyZua/brick_pyramids_infdev_-1.0.0Alpha-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "697b76ae66a5edb4322155fc6e8c262ca235d36400a5d9df99ccfba0c405628a7241fd27de76ca87fec5e63d482aa3dda61d4dfea74082ba4a8f208fa515d32a"
+
+[update]
+[update.modrinth]
+mod-id = "tXr59A05"
+version = "OTzSyZua"
