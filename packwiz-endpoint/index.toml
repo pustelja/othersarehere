@@ -830,7 +830,7 @@ hash = "e2dca752180d0c21f0c8f28ede1d35a01307edf5725d0d9d210a8a74c64ca5b5"
 
 [[files]]
 file = "folder.png"
-hash = "9c0a6cb34c5f4fec77e19c5f02eedbf8e4dc1dbbf3660aec12717f0f2b0569e4"
+hash = "3c19c638395c26919beab2a020f905225139bde63e88f7d5325c9deafdb0ec58"
 
 [[files]]
 file = "global_packs/required_data/tuning/data/computercraft/recipes/wireless_modem_advanced.json"
@@ -1328,7 +1328,7 @@ hash = "edeea89380dcfa0afa357dd16a5b5e37e28e3386aff837b795a8860a8420dad9"
 
 [[files]]
 file = "servers.dat"
-hash = "eb707fbfa53c4e557557526d8326cf7b4d706e692d7edf62952ca309884930e3"
+hash = "28b4ad807de5ff2ac07a51b0fff106babb1d39edc18c7aabece2215fff9569c0"
 
 [[files]]
 file = "shaderpacks/Epoch_Shader_v1.3.3.zip"
